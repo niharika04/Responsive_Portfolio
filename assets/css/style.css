@@ -294,7 +294,15 @@ input[type=submit] {
 	nav {
 		margin-right: 34px;
 	}
+	
+	.work {
+		width: 299px;
+			}
 
+	.work img {
+		width: 299px;
+		height: 250px;
+	}
 }
 @media screen and (max-width: 640px) {
 	
