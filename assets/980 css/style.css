@@ -224,5 +224,35 @@ input[type=submit] {
 	border: 0 none;
 }
 
+@media screen and (max-width: 980px) {
+	.wrapper {
+		width: 980px;
+	}
+	.container {
+		max-height: 980px;
+	}
 
+	.main-section {
+		max-width: 450px;
+		margin-left: 100px
+		
+	}
+
+	.auth-image {
+		width: 360px;
+		height: auto;
+	}
+
+	.sidebar {
+		margin-right: 100px;
+	}
+
+	#logo {
+		margin-left: 100px;
+	}
+
+	nav {
+		margin-right: 100px;
+	}
+}
 
