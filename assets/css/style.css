@@ -244,10 +244,15 @@ input[type=submit] {
 		height: auto;
 	}
 
-	/*.work {
+	.work {
+		width: 385px;
+	}
 
-	}*/
-
+	.work img {
+		width: 385px;
+		height: 360px;
+		
+	}
 	.sidebar {
 		margin-right: 100px;
 	}
@@ -350,9 +355,12 @@ input[type=submit] {
 
 	.work {
 		width: 520px;
-		height: 520px;
-		height: auto;
+	}
 
+	.work img {
+		width: 520px;
+		height: 520px;
+		
 	}
 }
 
