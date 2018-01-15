@@ -109,7 +109,8 @@ nav a {
 	border-left: solid 1px #efefef;
 }
 nav a:first-child {
-	border-left: 0 auto;
+	border-left: 0 none;
+
 }
 footer {
 	padding: 30px 0;
@@ -178,9 +179,9 @@ position: absolute;
 bottom: 20px;
 width: 100%;
 padding: 15px;
-margin-bottom: 0
-font-weight 300;
-line-height: 30px;
+margin-bottom: 0;
+/*font-weight 300px;
+*/line-height: 30px;
 color: #fff;
 text-align: center;
 background: #4aaaa5;
